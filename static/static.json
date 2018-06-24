@@ -1,0 +1,194 @@
+{
+  "proinfo": [
+    {
+      "kind": "卫生间",
+      "detailed": [
+        {
+          "id": "13",
+          "name": "地漏堵塞",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/dilou.png"
+        },
+        {
+          "id": "16",
+          "name": "换装卫生间水龙头",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/shuiongtou.png"
+        },
+        {
+          "id": "17",
+          "name": "马桶堵塞",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/matong.png"
+        },
+        {
+          "id": "18",
+          "name": "马桶漏水",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/matong.png"
+        },
+        {
+          "id": "19",
+          "name": "水(...盆堵塞",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/shuipen.png"
+        },
+        {
+          "id": "20",
+          "name": "水(...盆漏水",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/shuipen.png"
+        },
+        {
+          "id": "21",
+          "name": "卫生间水管渗漏",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/shuiguan.png"
+        },
+        {
+          "id": "22",
+          "name": "浴缸堵塞",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/yugang.png"
+        }
+      ]
+    },
+    {
+      "kind": "厨房",
+      "detailed": [
+        {
+          "id": "1",
+          "name": "换水龙头",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/shuiongtou.png"
+        },
+        {
+          "id": "2",
+          "name": "换装水龙头",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/shuiongtou.png"
+        },
+        {
+          "id": "3",
+          "name": "水盆漏水",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/shuipen.png"
+        },
+        {
+          "id": "4",
+          "name": "水管渗漏",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/shuiguan.png"
+        }
+      ]
+    },
+    {
+      "kind": "地面",
+      "detailed": [
+        {
+          "id": "5",
+          "name": "地板",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/diban.png"
+        },
+        {
+          "id": "6",
+          "name": "地砖",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/dizhuan.png"
+        }
+      ]
+    },
+    {
+      "kind": "断电",
+      "detailed": [
+        {
+          "id": "9",
+          "name": "室内断电",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/duandian.png"
+        },
+        {
+          "id": "30",
+          "name": "室内跳闸",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/duandain.png"
+        },
+        {
+          "id": "31",
+          "name": "换电线",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/duandain.png"
+        }
+      ]
+    },
+    {
+      "kind": "照明灯/扇",
+      "detailed": [
+        {
+          "id": "23",
+          "name": "吊扇",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/dengpao.png"
+        },
+        {
+          "id": "24",
+          "name": "换灯泡",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/dengpao.png"
+        }
+      ]
+    },
+    {
+      "kind": "门窗",
+      "detailed": [
+        {
+          "id": "10",
+          "name": "钢窗",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/window.png"
+        },
+        {
+          "id": "11",
+          "name": "木窗",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/window.png"
+        },
+        {
+          "id": "12",
+          "name": "木门",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/door.png"
+        },
+        {
+          "id": "25",
+          "name": "门把手",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/door.png"
+        }
+      ]
+    },
+    {
+      "kind": "顶（墙）面",
+      "detailed": [
+        {
+          "id": "7",
+          "name": "房顶渗漏水",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/qiangloushui.png"
+        },
+        {
+          "id": "8",
+          "name": "墙面渗漏水",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/qiangloushui.png"
+        },
+        {
+          "id": "26",
+          "name": "房顶掉皮",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/qiangdiaopi.png"
+        },
+        {
+          "id": "27",
+          "name": "墙面掉皮",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/qiangdiaopi.png"
+        },
+        {
+          "id": "28",
+          "name": "房顶裂缝",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/qiangdiaopi.png"
+        },
+        {
+          "id": "29",
+          "name": "墙面裂缝",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/qiangdiaopi.png"
+        },
+        {
+          "id": "32",
+          "name": "房顶刷漆",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/qiangdiaopi.png"
+        },
+        {
+          "id": "33",
+          "name": "墙面刷漆",
+          "url": "https://thethreestooges.cn/property/img/repair/repair/qiangdiaopi.png"
+        }
+      ]
+    }
+  ]
+}
